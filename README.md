@@ -1,2 +1,2 @@
-# JS
-This is the repository for learning JS
+
+This is the repository for tracking progress over different programming languages.
